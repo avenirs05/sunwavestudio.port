@@ -5,6 +5,7 @@ jQuery(document).ready(function() {
 
         e.preventDefault();
     });
+
 });
 
 function send_form(id) {

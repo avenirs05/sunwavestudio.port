@@ -205,8 +205,8 @@ a.more_pro:focus {
   color: #f78100 !important;
   text-decoration: none !important; }
 
-a:focus {
-  color: #fff !important; }
+/*a:focus {
+  color: #fff !important; }*/
 
 body {
   padding: 0 !important;
